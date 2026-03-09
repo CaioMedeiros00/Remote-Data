@@ -1,0 +1,21 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/list-remote.html"
+    },
+    {
+      "source": "/list-remote",
+      "destination": "/list-remote.html"
+    },
+    {
+      "source": "/list-products",
+      "destination": "/list-products.html"
+    },
+    {
+      "source": "/list-users",
+      "destination": "/list-users.html"
+    }
+  ]
+}
